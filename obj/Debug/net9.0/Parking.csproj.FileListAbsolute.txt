@@ -1,0 +1,15 @@
+/Users/szoroh/Documents/Projects/CSharp/Parking/bin/Debug/net9.0/Parking
+/Users/szoroh/Documents/Projects/CSharp/Parking/bin/Debug/net9.0/Parking.deps.json
+/Users/szoroh/Documents/Projects/CSharp/Parking/bin/Debug/net9.0/Parking.runtimeconfig.json
+/Users/szoroh/Documents/Projects/CSharp/Parking/bin/Debug/net9.0/Parking.dll
+/Users/szoroh/Documents/Projects/CSharp/Parking/bin/Debug/net9.0/Parking.pdb
+/Users/szoroh/Documents/Projects/CSharp/Parking/obj/Debug/net9.0/Parking.GeneratedMSBuildEditorConfig.editorconfig
+/Users/szoroh/Documents/Projects/CSharp/Parking/obj/Debug/net9.0/Parking.AssemblyInfoInputs.cache
+/Users/szoroh/Documents/Projects/CSharp/Parking/obj/Debug/net9.0/Parking.AssemblyInfo.cs
+/Users/szoroh/Documents/Projects/CSharp/Parking/obj/Debug/net9.0/Parking.csproj.CoreCompileInputs.cache
+/Users/szoroh/Documents/Projects/CSharp/Parking/obj/Debug/net9.0/Parking.sourcelink.json
+/Users/szoroh/Documents/Projects/CSharp/Parking/obj/Debug/net9.0/Parking.dll
+/Users/szoroh/Documents/Projects/CSharp/Parking/obj/Debug/net9.0/refint/Parking.dll
+/Users/szoroh/Documents/Projects/CSharp/Parking/obj/Debug/net9.0/Parking.pdb
+/Users/szoroh/Documents/Projects/CSharp/Parking/obj/Debug/net9.0/Parking.genruntimeconfig.cache
+/Users/szoroh/Documents/Projects/CSharp/Parking/obj/Debug/net9.0/ref/Parking.dll
