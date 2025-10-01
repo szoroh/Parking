@@ -22,11 +22,16 @@ namespace Parking
             Console.WriteLine("All parked cars:");
             parking.DisplayAllParkedCars();
 
-            Console.WriteLine("Search by registration (WX 11122)");
+            Console.WriteLine("\nSearch by registration (WX 11122)");
             parking.DisplayCarByRegistrationNumber("WX 11122");
 
-            Console.WriteLine("Search by phrase: Volvo");
+            Console.WriteLine("\nSearch by phrase: Volvo");
             parking.DisplayAllModelsMatchingGivenPhrase("Volvo");
+
+            Console.WriteLine("\nRemove Volvo XC 90");
+            parking.RemoveParkedCarFromParking(new Car("WWW 999","pink", "Tesla"));
+            Console.WriteLine("\nRefreshed list of cars after delete action");
+            parking.DisplayAllParkedCars();
         }
     }
 }

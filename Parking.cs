@@ -37,13 +37,25 @@ namespace Parking
                 FullInformation(car);
             }
         }
-        
+
         public void DisplayAllModelsMatchingGivenPhrase(string phrase)
         {
             var matchingPhrase = ParkingList.Where(x => x.Model.Contains(phrase)).ToList();
             foreach (var car in matchingPhrase)
             {
                 FullInformation(car);
+            }
+        }
+        
+        public void RemoveParkedCarFromParking(Car car)
+        {
+            if (car == null || !ParkingList.Contains(car))
+            {
+                Console.WriteLine("Car not found or invalid.");
+            }
+            else
+            {
+               ParkingList.Remove(car); 
             }
         }
     }
