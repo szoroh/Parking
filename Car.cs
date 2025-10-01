@@ -12,10 +12,5 @@ namespace Parking
             Color = color;
             Model = model;
         }
-
-        public void FullInformation()
-        {
-            Console.WriteLine($"Car details: {RegistrationNumber}, {Color}, {Model}");
-        }
     }
 }
